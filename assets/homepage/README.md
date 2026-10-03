@@ -1,0 +1,1 @@
+`fiona-about-background.jpg` is the panoramic background image Fiona selected for the homepage/about hero. The smaller taped frame on top of it is intentionally left as a separate photo slot; replace `.portrait-placeholder` in `index.html` with a second portrait or photograph when supplied.
